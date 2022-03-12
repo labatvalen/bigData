@@ -1,0 +1,4 @@
+{"eleve":{"nom":"Dupont", "prenom":"Jean","adresse":"1 Rue Eugénie Eboué"}, "notes":[{"note":12},{"note":13},{"note":14}]}
+{"eleve":{"nom":"Dubosc", "prenom":"Pierre","adresse":"1 Chemin de La Grange"}, "notes":[{"note":15},{"note":16},{"note":17}]}
+{"eleve":{"nom":"Pierre", "prenom":"Jacques","adresse":"1 rue Ronsard"}, "notes":[{"note":18},{"note":19},{"note":20}]}
+{"eleve":{"nom":"Larue", "prenom":"Charles","adresse":"1 Avenue du Loup"}, "notes":[{"note":10},{"note":11},{"note":12}]}
